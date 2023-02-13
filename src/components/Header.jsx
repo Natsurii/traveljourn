@@ -1,5 +1,5 @@
 import React from 'react';
-import globe from '../../public/assets/globe.svg'
+import globe from '../../public/globe.svg'
 import '../styles/Header.css'
 function Header() {
     return (
