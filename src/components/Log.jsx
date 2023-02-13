@@ -10,7 +10,7 @@ function Log(props){
 
                 
                 <p className="country">
-                <img src="/public/pin.svg" alt="pin" />
+                <img src="/pin.svg" alt="pin" />
                 <span className="country">{`${props.country}`.toLocaleUpperCase()}</span>
                 <a href={props.gmaps}>View on Google Maps</a>
                 </p>
