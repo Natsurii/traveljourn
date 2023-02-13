@@ -1,0 +1,16 @@
+header {
+    height: 55px;
+    background-color: #F55A5A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+header > h1 {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 14.5px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+}
