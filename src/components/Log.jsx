@@ -4,7 +4,7 @@ function Log(props){
 
     return(
         <section>
-            <img src={`/public/${props.imgSrc}`} alt={props.imgAlt} className="section--img"/>
+            <img src={`${props.imgSrc}`} alt={props.imgAlt} className="section--img"/>
 
             <div className="section--details">
 
